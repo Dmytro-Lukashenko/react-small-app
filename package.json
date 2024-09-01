@@ -1,7 +1,7 @@
 {
   "name": "react-small-app",
   "version": "0.1.0",
-  "homepage": "https://https://github.com/Dmytro-Lukashenko/react-small-app",
+  "homepage": "https://dmytro-lukashenko.github.io/react-small-app",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
